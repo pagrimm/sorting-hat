@@ -1,15 +1,15 @@
-# Project Name
-** for Epicodus**
-**By Peter Grimm, 05.29.2020**
+# Sorting Hat
+** Branching Activity for Epicodus**
+**By Peter Grimm, Kelly Eidsvik 05.29.2020**
 
 ## Description
 
-Insert description here
+A Hogwarts sorting hat page created to learn about Javascript branching with if/else statements.
 
 ## Setup/Installation Requirements
 
 * Clone this repository 
-* Browse to the ` ` folder
+* Browse to the `sorting-hat` folder
 * Open `index.html` in a browser of your choice
 
 ## Technologies Used
@@ -21,5 +21,5 @@ jQuery
 
 ## Legal
 
-Copyright (c) 2020, **_Peter Grimm_**  
+Copyright (c) 2020, **_Peter Grimm_** **_Kelly Eidsvik_** 
 This software is licensed under the MIT license.
