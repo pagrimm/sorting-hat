@@ -1,5 +1,5 @@
 # Sorting Hat
-** Branching Activity for Epicodus**
+**Branching Activity for Epicodus**
 **By Peter Grimm, Kelly Eidsvik 05.29.2020**
 
 ## Description
