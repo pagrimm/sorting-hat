@@ -16,7 +16,7 @@ A Hogwarts sorting hat page created to learn about Javascript branching with if/
 
 HTML  
 CSS  
-Bootstrap
+Bootstrap  
 jQuery
 
 ## Legal
